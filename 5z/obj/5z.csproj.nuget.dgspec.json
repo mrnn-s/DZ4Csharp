@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mariannasarkisan/Desktop/DZ3C/5z/5z.csproj": {}
+    "/Users/mariannasarkisan/Desktop/DZ4Csharp/5z/5z.csproj": {}
   },
   "projects": {
-    "/Users/mariannasarkisan/Desktop/DZ3C/5z/5z.csproj": {
+    "/Users/mariannasarkisan/Desktop/DZ4Csharp/5z/5z.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mariannasarkisan/Desktop/DZ3C/5z/5z.csproj",
+        "projectUniqueName": "/Users/mariannasarkisan/Desktop/DZ4Csharp/5z/5z.csproj",
         "projectName": "5z",
-        "projectPath": "/Users/mariannasarkisan/Desktop/DZ3C/5z/5z.csproj",
+        "projectPath": "/Users/mariannasarkisan/Desktop/DZ4Csharp/5z/5z.csproj",
         "packagesPath": "/Users/mariannasarkisan/.nuget/packages/",
-        "outputPath": "/Users/mariannasarkisan/Desktop/DZ3C/5z/obj/",
+        "outputPath": "/Users/mariannasarkisan/Desktop/DZ4Csharp/5z/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mariannasarkisan/.nuget/NuGet/NuGet.Config"
