@@ -2,32 +2,36 @@
 //Парой считаем первый и последний элемент, второй и предпоследний и т.д.
 void FillArray(int[] array, int min, int max)
 {
-    int length = array.Length;
-    for (int i = 0; i < length; i++)
+    for (int i = 0; i < array.Length; i++)
     {
-        array[i] = new Random().Next (min,max);
+      Random N = new Random();
+      array [i] = N.Next(min, max);
     }
 }
-void PrintArray(int[]array)
+void PrintArray(int[] array)
 {
-    int length = array.Length;
-    for (int i = 0; i < length; i++)
-    {
-        Console.Write($"{array[i]} ");
-    }
+    for (int i = 0; i < array.Length; i++)
+  {
+    Console.Write($"{array[i]} ");
+  }
 }
-int[] array = new int[123];
-FillArray(array, -999, 999);
+
+Console.WriteLine("enter length array");
+int n = int.Parse(Console.ReadLine() ?? "0");
+int[] array = new int[n];
+
+Console.WriteLine("enter  min, max");
+Console.WriteLine("enter min");
+int min = int.Parse(Console.ReadLine() ?? "0");
+
+Console.WriteLine("enter max");
+int max = int.Parse(Console.ReadLine() ?? "0");
+FillArray( array, min, max);
 PrintArray(array);
-int number = 0;
-for (int i = 0; i < array.Length; i++)
-{
-    if  (array[i]>=10 && array[i]<=99)                                 
-        {
-            int count = 1;
-            number = number+ count;
-        }
-    
+
+int sum = 0;
+for (int i = 0; i < n/2; i++)
+{ 
+    sum = array[i]*array[n-1-i];
 }
-Console.WriteLine();
-Console.Write($"В массиве {number} чисел  из диапазона от 10 до 99");
+  Console.WriteLine($"Произведения парных чисел массива: {sum} ");

@@ -1,0 +1,15 @@
+/Users/mariannasarkisan/Desktop/DZ4Csharp/6z/obj/Debug/net6.0/6z.csproj.AssemblyReference.cache
+/Users/mariannasarkisan/Desktop/DZ4Csharp/6z/obj/Debug/net6.0/6z.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariannasarkisan/Desktop/DZ4Csharp/6z/obj/Debug/net6.0/6z.AssemblyInfoInputs.cache
+/Users/mariannasarkisan/Desktop/DZ4Csharp/6z/obj/Debug/net6.0/6z.AssemblyInfo.cs
+/Users/mariannasarkisan/Desktop/DZ4Csharp/6z/obj/Debug/net6.0/6z.csproj.CoreCompileInputs.cache
+/Users/mariannasarkisan/Desktop/DZ4Csharp/6z/bin/Debug/net6.0/6z
+/Users/mariannasarkisan/Desktop/DZ4Csharp/6z/bin/Debug/net6.0/6z.deps.json
+/Users/mariannasarkisan/Desktop/DZ4Csharp/6z/bin/Debug/net6.0/6z.runtimeconfig.json
+/Users/mariannasarkisan/Desktop/DZ4Csharp/6z/bin/Debug/net6.0/6z.dll
+/Users/mariannasarkisan/Desktop/DZ4Csharp/6z/bin/Debug/net6.0/6z.pdb
+/Users/mariannasarkisan/Desktop/DZ4Csharp/6z/obj/Debug/net6.0/6z.dll
+/Users/mariannasarkisan/Desktop/DZ4Csharp/6z/obj/Debug/net6.0/refint/6z.dll
+/Users/mariannasarkisan/Desktop/DZ4Csharp/6z/obj/Debug/net6.0/6z.pdb
+/Users/mariannasarkisan/Desktop/DZ4Csharp/6z/obj/Debug/net6.0/6z.genruntimeconfig.cache
+/Users/mariannasarkisan/Desktop/DZ4Csharp/6z/obj/Debug/net6.0/ref/6z.dll

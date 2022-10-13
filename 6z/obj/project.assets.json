@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mariannasarkisan/Desktop/DZ3C/6z/6z.csproj",
+      "projectUniqueName": "/Users/mariannasarkisan/Desktop/DZ4Csharp/6z/6z.csproj",
       "projectName": "6z",
-      "projectPath": "/Users/mariannasarkisan/Desktop/DZ3C/6z/6z.csproj",
+      "projectPath": "/Users/mariannasarkisan/Desktop/DZ4Csharp/6z/6z.csproj",
       "packagesPath": "/Users/mariannasarkisan/.nuget/packages/",
-      "outputPath": "/Users/mariannasarkisan/Desktop/DZ3C/6z/obj/",
+      "outputPath": "/Users/mariannasarkisan/Desktop/DZ4Csharp/6z/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mariannasarkisan/.nuget/NuGet/NuGet.Config"
